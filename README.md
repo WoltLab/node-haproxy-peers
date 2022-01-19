@@ -19,6 +19,7 @@ configuration.
 
 We open-sourced the library as part of our talk “Using HAProxy Peers for
 Real-time Quota Tracking” at [HAProxyConf 2021 Virtual](https://www.haproxyconf.com/).
+The talk’s slides are available within [slides.pdf](./slides.pdf).
 
 ## License
 
